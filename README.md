@@ -16,6 +16,8 @@ https://grabcad.com/library/50-cad-exercise-drawing-1
 https://www.reddit.com/r/cad/comments/zsf5ml/cad_challenge_for_beginners/
 https://drive.google.com/drive/folders/1HM3AEZs_a9akPjItL7rOICObVQCHC18E
 
+*100 Cad exercises (tutorial)* by Mohsen Jahanbakhsh
+https://grabcad.com/library/100-cad-exercises-tutorial-1#!
 
 Viel Erfolg bei deiner CAD Challenge mit SolveSpace
 https://links.pixeledi.eu
