@@ -9,6 +9,11 @@ https://www.youtube.com/playlist?list=PLluslK6uBf4sUY_SgOZhBTb_5Vs-XMHZ6
 https://solvespace.com/
 
 ## Quellen der CAD-Zeichnungen
+
+*Too Tall Toby*
+Kanal: https://www.youtube.com/@TooTallToby
+Playlist: https://www.youtube.com/watch?v=ZYhICKgmpFA&list=PLzMIhOgu1Y5ch66npEIe0AZEyYMo9nki_&index=43
+
 *50 CAD Exercise Drawing*
 https://grabcad.com/library/50-cad-exercise-drawing-1
 
